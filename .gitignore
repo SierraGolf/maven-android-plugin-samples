@@ -11,3 +11,5 @@ bin
 .DS_Store
 seed.txt
 morseflash/morseflash-app/res/values/filter.xml
+gen-external-apklibs/
+out
